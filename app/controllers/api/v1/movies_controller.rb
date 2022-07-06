@@ -7,4 +7,8 @@ class Api::V1::MoviesController < Api::V1::BaseController
       @movies = Movie.all.order(:year)
     end
   end
+
+  # def year
+  #   @movies = Movie.where(year: "1971")
+  # end
 end

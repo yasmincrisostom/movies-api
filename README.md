@@ -1,6 +1,6 @@
 ## **Desafio Backend Mobile2You**
 
-Desafio proposto pela Mobile2You - Dimensa para criacão de API.
+Desafio proposto pela Mobile2You - Dimensa para criação de API.
 
 - 🎯 Objetivo: Criar uma API de serviço do catálogo de filmes com dois endpoints. O primeiro deverá fazer a leitura de uma arquivo CSV e criar os registros no banco de dados. Já o segundo deverá listar todos os filmes cadastrados em formato JSON.
 
